@@ -1,0 +1,1 @@
+print('Streamlit app placeholder for Resume Analyzer NLP')
